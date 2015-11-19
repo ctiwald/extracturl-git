@@ -2,12 +2,12 @@
 
 _pkgname=extracturl
 pkgname=extracturl-git
-pkgver=1.6.4b515b30
+pkgver=4b515b3
 pkgrel=1
 pkgdesc="Replacement for urlview to parse URL links from mail messages."
 url="https://github.com/m3m0ryh0l3/extracturl"
 arch=('any')
-license=('SKIP')
+license=('BSD')
 depends=('perl-mime-tools' 'perl-html-parser')
 source=(git://github.com/m3m0ryh0l3/extracturl)
 md5sums=('SKIP')
