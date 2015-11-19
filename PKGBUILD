@@ -1,3 +1,5 @@
+# Maintainer: Christopher Tiwald <christiwald at gmail dot com>
+
 _pkgname=extracturl
 pkgname=extracturl-git
 pkgver=1.6.4b515b30
